@@ -1,1 +1,1 @@
-# Collectibles-Map-Web-App
+# Collectible-Finder-Map-Web-App
